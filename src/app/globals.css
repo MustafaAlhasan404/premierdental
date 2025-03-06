@@ -50,8 +50,7 @@
   --gray-900: #1C2130;
   
   /* Typography */
-  --font-heading: 'Playfair Display', serif;
-  --font-body: 'Poppins', sans-serif;
+  --font-body: var(--font-poppins);
   --font-weight-light: 300;
   --font-weight-regular: 400;
   --font-weight-medium: 500;

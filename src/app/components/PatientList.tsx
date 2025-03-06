@@ -1,6 +1,6 @@
 import React from 'react';
 import { Patient, AppointmentType, PatientStatus } from '../types';
-import { Card, Button, Badge, Row, Col } from 'react-bootstrap';
+import { Card, Button, Badge } from 'react-bootstrap';
 
 interface PatientListProps {
   title: string;

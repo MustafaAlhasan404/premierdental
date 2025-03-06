@@ -212,7 +212,7 @@ const PatientDetails: React.FC<PatientDetailsProps> = ({
           <h5 className="mb-3 fw-semibold">Notes</h5>
           
           <div className="detail-card p-3 bg-gray-50 rounded-lg mb-4">
-            <div className="text-muted small mb-2">Doctor's Notes</div>
+            <div className="text-muted small mb-2">Doctor&apos;s Notes</div>
             <p className="mb-0">
               Patient has expressed sensitivity to cold beverages. Recommended fluoride treatment during next visit.
               No allergies to dental anesthetics. Regular checkup schedule maintained.
