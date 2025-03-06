@@ -66,21 +66,7 @@ export default function RootLayout({
                   <i className="fas fa-tooth text-primary me-2"></i>
                   <span className="fw-bold" style={{ color: 'var(--primary)' }}>Premier Dental Clinic</span>
                 </div>
-                <div className="text-muted small">Providing premium dental care since 2005</div>
-              </div>
-              <div className="d-flex gap-3">
-                <a href="#" className="btn btn-sm btn-outline-primary rounded-circle p-2 shadow-sm" aria-label="Facebook">
-                  <i className="fab fa-facebook-f"></i>
-                </a>
-                <a href="#" className="btn btn-sm btn-outline-primary rounded-circle p-2 shadow-sm" aria-label="Twitter">
-                  <i className="fab fa-twitter"></i>
-                </a>
-                <a href="#" className="btn btn-sm btn-outline-primary rounded-circle p-2 shadow-sm" aria-label="Instagram">
-                  <i className="fab fa-instagram"></i>
-                </a>
-                <a href="#" className="btn btn-sm btn-outline-primary rounded-circle p-2 shadow-sm" aria-label="LinkedIn">
-                  <i className="fab fa-linkedin-in"></i>
-                </a>
+                <div className="text-muted small">Ilkood Test</div>
               </div>
             </div>
             <div className="pt-3">
